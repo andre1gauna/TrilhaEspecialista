@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="Cadastro de Cliente" >
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Cadastro de Cliente</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+</head>
+<body>
+	<div class="container">
+		<h1>Cadastro de Cliente</h1>
+		<form id="cadastro_form">
+			<div>
+				<input type="text" id="idcliente_form" name="" >
+				<span class="erro" id="idcliente_msg_erro"></span>
+				<label>ID Cliente</label>	
+			</div>
+			<div>
+				<input type="text" id="nome_form" name="" >
+				<span class="erro" id="nome_msg_erro"></span>
+				<label>Nome</label>	
+			</div>
+			<div>
+				<input type="rg" id="rg_form" name="" >
+				<span class="erro" id="rg_msg_erro"></span>
+				<label>Rg</label>	
+			</div>
+			<div>
+				<input type="cpf" id="cpf_form" name="" >
+				<span class="erro" id="cpf_msg_erro"></span>
+				<label>CPF</label>	
+			</div>
+			<div>
+				<input type="endereco" id="endereco_form" name="" >
+				<span class="erro" id="endereco_msg_erro"></span>
+				<label>Endereço</label>	
+			</div>
+         <div>
+				<input type="produto" id="produto_form" name="" >
+				<span class="erro" id="produto_msg_erro"></span>
+				<label>Produto</label>	
+			</div>
+         <div>
+				<input type="preco" id="preco_form" name="" >
+				<span class="erro" id="preco_msg_erro"></span>
+				<label>Preço de Venda</label>	
+			</div>
+			<input type="submit" value="cadastrar" name="">
+		</form>
+	</div>
+	<script type="text/javascript">
+      $(function() {
+
+         $("#idcliente_msg_erro").hide();
+         $("#nome_msg_erro").hide();
+         $("#rg_msg_erro").hide();
+         $("#cpf_msg_erro").hide();
+         $("#endereco_msg_erro").hide();
+         $("#produto_msg_erro").hide();
+         $("#preco_msg_erro").hide();
+
+         var msg_idcliente = false;
+         var msg_nome = false;
+         var msg_rg = false;
+         var msg_cpf = false;
+         var msg_endereco = false;
+         var msg_produto = false;
+         var msg_preco = false;
+         
+         $("#idcliente_form").focusout(function(){
+            verifica_idcliente();
+         });
+         $("#nome_form").focusout(function() {
+            verifica_nome();
+         });
+         $("#rg_form").focusout(function() {
+            verifica_rg();
+         });
+         $("#cpf_form").focusout(function() {
+            verifica_cpf();
+         });   
+         $("#endereco_form").focusout(function() {
+            verifica_endereco();
+         });        
+         $("#produto_form").focusout(function() {
+            verifica_produto();
+         }); 
+         $("#preco_form").focusout(function() {
+            verifica_preco();
+         });
+
+         function verifica_idcliente() {
+            var rgx = /^[0-9]*$/;
+            var idcliente = $("#idcliente_form").val();
+            if (rgx.test(idcliente) && idcliente !== '') {
+               $("#idcliente_msg_erro").hide();
+               $("#idcliente_form").css("border-bottom","4px solid #32CD32");
+            } else {
+               $("#idcliente_msg_erro").html("Somente números.");
+               $("#idcliente_msg_erro").show();
+               $("#idcliente_form").css("border-bottom","4px solid #FF0000");
+               msg_idcliente = true;
+            }
+         }
+
+         function verifica_nome() {
+            var rgx = /^[a-zA-Záéíóúãõ ]*$/;
+            var nome = $("#nome_form").val()
+            if (rgx.test(nome) && nome !== '') {
+               $("#nome_msg_erro").hide();
+               $("#nome_form").css("border-bottom","4px solid #32CD32");
+            } else {
+               $("#nome_msg_erro").html("Somente letras.");
+               $("#nome_msg_erro").show();
+               $("#nome_form").css("border-bottom","4px solid #FF0000");
+               msg_nomecliente = true;
+            }
+         }
+
+         function verifica_rg() {
+            var rgx = /^[0-9]*$/;
+            var rg = $("#rg_form").val();
+            var tamanho_rg = $("#rg_form").val().length;
+            if (tamanho_rg != 9 || !rgx.test(rg)) {
+               $("#rg_msg_erro").html("preencha com os 9 digitos.");
+               $("#rg_msg_erro").show();
+               $("#rg_form").css("border-bottom","4px solid #FF0000");
+               msg_rg = true;
+            } else {
+               $("#rg_msg_erro").hide();
+               $("#rg_form").css("border-bottom","4px solid #32CD32");
+            }
+         }
+
+         function verifica_cpf() {
+            var rgx = /^[0-9]*$/;
+            var cpf = $("#cpf_form").val();
+            var tamanho_cpf = $("#cpf_form").val().length;
+            if (tamanho_cpf != 11 || !rgx.test(cpf)) {
+               $("#cpf_msg_erro").html("preencha com os 11 digitos.");
+               $("#cpf_msg_erro").show();
+               $("#cpf_form").css("border-bottom","4px solid #FF0000");
+               msg_cpf = true;
+            } else {
+               $("#cpf_msg_erro").hide();
+               $("#cpf_form").css("border-bottom","4px solid #32CD32");
+            }
+         }
+
+         function verifica_endereco() {
+            var endereco = $("#endereco_form").val();
+            if (endereco == '' ) {
+               $("#endereco_msg_erro").html("Não deixe em branco.");
+               $("#endereco_msg_erro").show();
+               $("#endereco_form").css("border-bottom","4px solid #FF0000");
+               msg_cpf = true;
+            } else {
+               $("#endereco_msg_erro").hide();
+               $("#endereco_form").css("border-bottom","4px solid #32CD32");
+            }
+         }
+
+         function verifica_produto() {
+            var produto = $("#produto_form").val();
+            if (produto == '' ) {
+               $("#produto_msg_erro").html("Não deixe em branco.");
+               $("#produto_msg_erro").show();
+               $("#produto_form").css("border-bottom","4px solid #FF0000");
+               msg_cpf = true;
+            } else {
+               $("#produto_msg_erro").hide();
+               $("#produto_form").css("border-bottom","4px solid #32CD32");
+            }
+         }
+
+         function verifica_preco() {
+            var rgx = /^[0-9,.UR$]*$/;
+            var preco = $("#preco_form").val();
+            if (!rgx.test(preco) || preco == ''){
+               $("#preco_msg_erro").html("Informe um valor válido.");
+               $("#preco_msg_erro").show();
+               $("#preco_form").css("border-bottom","4px solid #FF0000");
+               msg_preco = true;
+            } else {
+               $("#preco_msg_erro").hide();
+               $("#preco_form").css("border-bottom","4px solid #32CD32");
+            }
+         }
+
+         
+
+         $("#formulário_cadastro").submit(function() {
+            msg_idcliente = false;
+            msg_nome = false;
+            msg_rg = false;
+            msg_cpf = false;
+            msg_preco = false;
+
+            verifica_idcliente();
+            verifica_nome();
+            verifica_rg();
+            verifica_cpf();
+            verifica_preco();
+
+            if (msg_idcliente === false && msg_nome === false && msg_rg === false && msg_cpf === false && msg_preco === false) {
+               alert("Cliente cadastrado com sucesso!");
+               return true;
+            } else {
+               alert("Verifique os pontos de atenção.");
+               return false;
+            }
+
+
+         });
+      });
+   </script>
+</body>
+</html>

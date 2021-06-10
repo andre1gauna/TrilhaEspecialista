@@ -1,0 +1,89 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	background: url(https://vigiadepreco.com.br/blog/wp-content/uploads/2020/11/As-13-melhores-mesas-para-escritorio-950x500.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container
+{   position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 700pt;
+	background: rgb(255, 255, 255);
+	padding: 45pt;
+	box-sizing: border-box;
+	border :1pt solid rgba(0,0,0,.1);
+	box-shadow: 0 5pt 10pt rgba(0,0,0,.2);
+    
+    h1 {
+        text-align: center;
+        margin: 0 0 40pt;
+        font-size: 20pt;
+        padding: 0;
+        color: rgb(244, 167, 66);
+        letter-spacing: 2pt;
+    }
+
+    input{
+	padding: 5pt;
+	margin-bottom: 30pt;
+	width: 55%;
+	box-sizing: border-box;
+	box-shadow: none;
+	outline: none;
+	border:none;
+	border-bottom: 2pt solid rgb(244, 167, 66);
+    }
+
+    input[type="submit"] {
+	border-radius: 25pt;
+	font-size: 20pt;
+	height: 40pt;
+	cursor : pointer;
+	background: rgb(244, 167, 66);
+	color: #fff;
+	margin-bottom: 0;
+    }
+	
+    input[type="submit"]:hover{
+	background: #f46134;
+	color: #fff;
+    }
+
+    form div{
+	    position: relative;
+
+        label{
+	    position: absolute;
+	    top: 3pt;
+	    pointer-events: none;
+	    left: 0;
+	    transition: .5s;
+        }
+    }
+
+    input:focus ~label,
+    input:valid ~label{
+        left: 0;
+        top: -20pt;
+        color: rgb(244, 167, 66);
+        font-size: 12pt;
+        font-weight: bold;
+    }
+    input:focus,
+    input:valid{
+	border-bottom: 2pt solid rgb(244, 167, 66);
+    }
+}
+
+.error_form
+{
+	top: 12pt;
+	color: rgb(216, 15, 15);
+    font-size: 15pt;
+    font-family: Helvetica;
+}
