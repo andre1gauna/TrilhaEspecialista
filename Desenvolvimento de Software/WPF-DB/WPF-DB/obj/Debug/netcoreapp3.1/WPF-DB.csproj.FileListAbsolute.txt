@@ -1,0 +1,195 @@
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB_MarkupCompile.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB_MarkupCompile.lref
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.g.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF e DB\AvaliaçãoDiagnostica-WPF_DB\AvaliaçãoDiagnostica\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csproj.CoreCompileInputs.cache
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.exe
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.deps.json
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.runtimeconfig.json
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.runtimeconfig.dev.json
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.pdb
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csprojAssemblyReference.cache
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\App.g.cs
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB_MarkupCompile.cache
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB_MarkupCompile.lref
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.g.resources
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.AssemblyInfoInputs.cache
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.AssemblyInfo.cs
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csproj.CoreCompileInputs.cache
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csproj.CopyComplete
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.dll
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.pdb
+C:\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\WPF-DB.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB_MarkupCompile.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB_MarkupCompile.lref
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.g.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Trilha Especialista Itau - Dev\Desenvolvimento de Software\WPF-DB\WPF-DB\obj\Debug\netcoreapp3.1\WPF-DB.genruntimeconfig.cache

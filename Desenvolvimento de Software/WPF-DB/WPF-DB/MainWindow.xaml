@@ -1,0 +1,61 @@
+﻿<Window x:Class="WPF_DB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="459" Width="854">
+
+
+    <Grid Name="grid1" Margin="0,0,0,-6">
+
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FFFF8484" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Content="Deletar" HorizontalAlignment="Left" Margin="730,50,0,0" VerticalAlignment="Top" Width="58" Click="DeletarCadastroCliente"/>
+        <Button Content="Cadastrar" HorizontalAlignment="Left" Margin="730,21,0,0" VerticalAlignment="Top" Width="58" Click="SalvarCadastroCliente"/>
+        <Button Content="Editar" HorizontalAlignment="Left" Margin="730,78,0,0" VerticalAlignment="Top" Width="58" Click="EditarCadastroCliente"/>
+        <TextBox  HorizontalAlignment="Left" Name="nomeCliente" Margin="106,24,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="268" TextChanged="nomeCliente_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Name="rg" Margin="106,53,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="124"/>
+        <TextBox HorizontalAlignment="Left" Name="cpf" Margin="106,81,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="124"/>
+        <TextBox HorizontalAlignment="Left" Name="endereco" Margin="456,22,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="264"/>
+        <TextBox HorizontalAlignment="Left" Name="produto" Margin="456,51,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="264"/>
+        <TextBox HorizontalAlignment="Left" Name="precoVenda" Margin="456,79,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <Label Content="NomeCliente" FontSize="10" HorizontalAlignment="Left" Padding="0" Margin="36,24,0,0" VerticalAlignment="Top" Height="18" Width="60" Foreground="White"/>
+        <Label Content="RG" FontSize="10" HorizontalAlignment="Left" Padding="0" Margin="36,53,0,0" VerticalAlignment="Top" Height="18" Width="60" Foreground="White"/>
+        <Label Content="CPF" FontSize="10" HorizontalAlignment="Left" Padding="0" Margin="36,81,0,0" VerticalAlignment="Top" Height="18" Width="60" Foreground="White"/>
+        <Label Content="Endereco" FontSize="10" HorizontalAlignment="Center" Padding="0" Margin="0,22,0,0" VerticalAlignment="Top" Height="18" Width="58" Foreground="White"/>
+        <Label Content="Produto" FontSize="10" HorizontalAlignment="Center" Padding="0" Margin="0,51,0,0" VerticalAlignment="Top" Height="18" Width="58" Foreground="White"/>
+        <Label Content="Preço       R$" FontSize="10" HorizontalAlignment="Center" Padding="0" Margin="0,79,0,0" VerticalAlignment="Top" Height="18" Width="58" Foreground="White"/>
+
+        <DataGrid Name="grid2" Margin="41,128,86,10">
+
+            <DataGrid.Columns>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <CheckBox Unchecked="RemoveDaListadeItensADeletar" Checked="AdicionarAListadeItensADeletar" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTextColumn Width="100" Header="IdCliente" Binding="{Binding IdCliente}"/>
+                <DataGridTextColumn Width="100" Header="NomeCliente" Binding="{Binding NomeCliente}"/>
+                <DataGridTextColumn Width="100" Header="RG" Binding="{Binding RG}"/>
+                <DataGridTextColumn Width="100" Header="CPF" Binding="{Binding CPF}"/>
+                <DataGridTextColumn Width="100" Header="Endereco" Binding="{Binding Endereco}"/>
+                <DataGridTextColumn Width="100" Header="Produto" Binding="{Binding Produto}"/>
+                <DataGridTextColumn Width="100" Header="Preço" Binding="{Binding PrecoVenda}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+
+    </Grid>
+</Window>
